@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "generatedBy": "localclaw",
+  "projectTaskId": "547574ff-ddc8-4d95-9ff5-7aefa17b7b85",
+  "projectTaskTitle": "phase4-sample-app",
+  "deploy": {
+    "provider": "railway",
+    "approvalRequired": true
+  },
+  "hygiene": {
+    "ignoreOsJunk": true,
+    "enforceRepoContract": true
+  }
+}
